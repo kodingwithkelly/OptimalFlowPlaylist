@@ -56,13 +56,13 @@ After data mining and discovering the data I had, I made the following changes:
   
 ## EDA
 Below are a few graphs from my EDA.
-![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read.me%20pngs/Correlation%20of%20Features.png "Correlation of Features")
+![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read%20me%20pngs/Correlation%20of%20Features.png "Correlation of Features")
 
-![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read.me%20pngs/Correlation%20Between%20Energy%20%26%20Valence.png "Correlation Between Energy and Valence")
+![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read%20me%20pngs/Correlation%20Between%20Energy%20%26%20Valence.png "Correlation Between Energy and Valence")
 
-![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read.me%20pngs/Radar%20Chart.png "Radar Chart")
+![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read%20me%20pngs/Radar%20Chart.png "Radar Chart")
 
-![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read.me%20pngs/Barchart%20of%20Streaming%20Hour.png "Barchart of Streaming Hour")
+![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read%20me%20pngs/Barchart%20of%20Streaming%20Hour.png "Barchart of Streaming Hour")
 
 
 ## Future Work
