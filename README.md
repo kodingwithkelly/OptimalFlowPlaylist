@@ -11,6 +11,7 @@ Most importantly, this analysis has made my life easier by reordering songs to m
 
 ## Code and Resources Used 
 **Packages:** base64, requests, spotipy, json, pandas, numpy, seaborn, matplotlib.pyplot, sklearn (preprocessing)
+
 **Data Mining Video:** https://www.youtube.com/watch?v=xdq6Gz33khQ&t=4345s
 
 **Playlist Automation:** https://github.com/TheComeUpCode/SpotifyGeneratePlaylist/blob/master/create_playlist.py
