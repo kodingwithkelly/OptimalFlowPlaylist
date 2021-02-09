@@ -6,11 +6,13 @@
 
 ## Conclusion
 I found that I tend to like happier songs through analyzing valence and mode. By creating correlation graphs, I discovered that energy is highly correlated with other features. Furthermore, my own analysis shows an affinity for streaming music on Wednesdays at Noon.
+
 Most importantly, this analysis has made my life easier by reordering songs to my preference and saved me time from manually locating each song to relocate. I believe that this analysis can be used in conjunction with Spotify's own "Wrapped". This solution to reordering songs can also be adapted for users to order by their own preference, not just by what has been analyzed in this EDA. 
 
 ## Code and Resources Used 
 **Packages:** base64, requests, spotipy, json, pandas, numpy, seaborn, matplotlib.pyplot, sklearn (preprocessing)
 **Data Mining Video:** https://www.youtube.com/watch?v=xdq6Gz33khQ&t=4345s
+
 **Playlist Automation:** https://github.com/TheComeUpCode/SpotifyGeneratePlaylist/blob/master/create_playlist.py
 
 ## Data Mining
