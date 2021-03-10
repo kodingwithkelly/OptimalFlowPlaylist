@@ -67,4 +67,4 @@ Below are a few graphs from my EDA.
 
 ## Future Work
 * Revisit to add another map that details when specific songs were streamed and create functions to map instead of having a cell for each map
-* Create a website for others to use and explore how they would like to reorder their own playlist :) 
+* Create a website using streamlit for others to use and explore how they would like to reorder their own playlist :) 
