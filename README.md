@@ -18,6 +18,7 @@ Most importantly, this analysis has made my life easier by reordering songs to m
 
 ## Data Mining
 Mined audio features of 100 of my top songs of 2020. 
+
 Features:
 * energy
 * liveness
