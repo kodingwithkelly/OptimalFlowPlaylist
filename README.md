@@ -1,6 +1,6 @@
 # Spotify Optimal Musical Flow Reordering: Project Overview 
-* Data mined 100 tracks from "Top Songs 2020" playlist, each song's audio features, artist ids, and genre of each artist and exported to .csv to do future analysis. 
-* Wrangled streaming history dataset and audio feature dataset using python.
+* Data mined 100 tracks from "Top Songs 2020" playlist, each song's audio features, artist ids, and genre of each artist and exported to .csv to do feature analysis. 
+* Wrangled streaming history dataset and audio feature dataset using Python.
 * Explored over 7,000 rows of streaming history to see what days and what time of day I stream the most and to see how Spotify orders their "Top Songs 2020" playlist. 
 * Analyzed audio features of "Top Songs 2020" to see distribution and correlation of each to subsequently apply to our criteria of reodering songs.
 
