@@ -1,6 +1,6 @@
 # Spotify Optimal Musical Flow Reordering: Project Overview 
-* Data mined 100 tracks from "Top Songs 2020" playlist, each song's audio features, artist ids, and genre of each artist and exported to .csv to do future analysis. 
-* Wrangled streaming history dataset and audio feature dataset using python.
+* Extracted 100 tracks from "Top Songs 2020" playlist, each song's audio features, artist ids, and genre of each artist and exported to .csv to do feature analysis. 
+* Wrangled streaming history dataset and audio feature dataset using Python.
 * Explored over 7,000 rows of streaming history to see what days and what time of day I stream the most and to see how Spotify orders their "Top Songs 2020" playlist. 
 * Analyzed audio features of "Top Songs 2020" to see distribution and correlation of each to subsequently apply to our criteria of reodering songs.
 
@@ -18,6 +18,7 @@ Most importantly, this analysis has made my life easier by reordering songs to m
 
 ## Data Mining
 Mined audio features of 100 of my top songs of 2020. 
+
 Features:
 * energy
 * liveness
@@ -56,15 +57,15 @@ After data mining and discovering the data I had, I made the following changes:
   
 ## EDA
 Below are a few graphs from my EDA.
-![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read.me%20pngs/Correlation%20of%20Features.png "Correlation of Features")
+![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read%20me%20pngs/Correlation%20of%20Features.png "Correlation of Features")
 
-![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read.me%20pngs/Correlation%20Between%20Energy%20%26%20Valence.png "Correlation Between Energy and Valence")
+![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read%20me%20pngs/Correlation%20Between%20Energy%20%26%20Valence.png "Correlation Between Energy and Valence")
 
-![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read.me%20pngs/Radar%20Chart.png "Radar Chart")
+![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read%20me%20pngs/Radar%20Chart.png "Radar Chart")
 
-![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read.me%20pngs/Barchart%20of%20Streaming%20Hour.png "Barchart of Streaming Hour")
+![alt text](https://github.com/kodingwithkelly/OptimalFlowPlaylist/blob/main/Read%20me%20pngs/Barchart%20of%20Streaming%20Hour.png "Barchart of Streaming Hour")
 
 
 ## Future Work
 * Revisit to add another map that details when specific songs were streamed and create functions to map instead of having a cell for each map
-* Create a website for others to use and explore how they would like to reorder their own playlist :) 
+* Create a website using streamlit for others to use and explore how they would like to reorder their own playlist :) 
