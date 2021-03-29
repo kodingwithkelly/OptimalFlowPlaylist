@@ -5,6 +5,9 @@
 * Analyzed audio features of "Top Songs 2020" to see distribution and correlation of each to subsequently apply to our criteria of reodering songs.
 
 ## Conclusion
+Streamlit app: https://streamlit-optimal-playlist.herokuapp.com/
+
+
 I found that I tend to like happier songs through analyzing valence and mode. By creating correlation graphs, I discovered that energy is highly correlated with other features. Furthermore, my own analysis shows an affinity for streaming music on Wednesdays at Noon.
 
 Most importantly, this analysis has made my life easier by reordering songs to my preference and saved me time from manually locating each song to relocate. I believe that this analysis can be used in conjunction with Spotify's own "Wrapped". This solution to reordering songs can also be adapted for users to order by their own preference, not just by what has been analyzed in this EDA. 
