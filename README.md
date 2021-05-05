@@ -71,4 +71,4 @@ Below are a few graphs from my EDA.
 
 ## Future Work
 * Revisit to add another map that details when specific songs were streamed and create functions to map instead of having a cell for each map
-* Create a website using streamlit for others to use and explore how they would like to reorder their own playlist :) 
+* May 2021, I have revisited to have another go at creating a dashboard. I believe that the first try had an unusual size, lack of story, cluttered, and did not have interactive functionability. My updated dashboard fixes some of my issues, though I believe it can still be improved. I will possibly revisit as practice. 
